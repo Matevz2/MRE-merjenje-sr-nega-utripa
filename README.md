@@ -8,3 +8,23 @@ Stikalo sva dodala,da lahko napravo izklopimo, ko ni uporabljena. Ko je naprava 
 ### Kosovnica uporabljenih materialov in komponent
 <img width="1524" height="585" alt="image" src="https://github.com/user-attachments/assets/3d95dfeb-eae3-4fdf-8a4e-fb492561ed5e" />
 
+### Slika vezalne sheme
+<img width="972" height="653" alt="image" src="https://github.com/user-attachments/assets/f073a34e-f927-4926-afd2-4814339079a2" />
+
+### Slike načrtov za ohišje 
+
+### Izračune za posamezne komponente elektronskega vezja
+Za projekt nisva delala nobenih izračunov, ker nisva uporabljala nobenih uporov, tranzistorjov, relejev...
+
+### Koda programa
+
+### Videoposnetek delovanja naprave
+
+### A-test
+
+### Komentar in ocena natančnosti
+
+### Predlagane izboljšave 
+
+### Zaključek
+
