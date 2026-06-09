@@ -23,7 +23,7 @@ Poraba toka senzorja MAX30102 je relativno majhna in je primerna za napajanje ne
 
 ### Koda programa
 Koda se nahaja v
-Koda
+mapi po imenu koda 
 
 ### Videoposnetek delovanja naprave
 
