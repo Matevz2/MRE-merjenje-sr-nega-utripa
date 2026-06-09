@@ -22,6 +22,7 @@ Ker projekt temelji predvsem na digitalnih komponentah z že vgrajeno elektronik
 Poraba toka senzorja MAX30102 je relativno majhna in je primerna za napajanje neposredno iz mikrokontrolnika. OLED zaslon prav tako ne zahteva dodatnih močnostnih elementov. Zaradi tega v vezju niso bili potrebni upori za omejevanje toka, tranzistorji ali releji.
 
 ### Koda programa
+Koda se nahaja v
 
 ### Videoposnetek delovanja naprave
 
