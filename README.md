@@ -29,6 +29,10 @@ mapi po imenu koda
 ### Videoposnetek delovanja naprave
 
 ### A-test
+<img width="465" height="698" alt="image" src="https://github.com/user-attachments/assets/906b8436-d109-4a97-aff5-15842c7c7085" />
+<img width="504" height="712" alt="image" src="https://github.com/user-attachments/assets/c0f8a81b-4adc-40c1-9886-778225e666dc" />
+
+
 
 ### Komentar in ocena natančnosti
 Med razvojem projekta sva izvedla več primerjalnih meritev z referenčnim pulznim oksimetrom. Cilj je bil ugotoviti, kako natančno senzor MAX30102 meri srčni utrip in nasičenost krvi s kisikom.
