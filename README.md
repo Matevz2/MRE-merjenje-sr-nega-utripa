@@ -9,7 +9,8 @@ Ko uporabnik položi prst na senzor, Arduino Nano začne brati podatke in jih ob
 Izračunane vrednosti se nato prikažejo na OLED zaslonu, ki uporabniku omogoča hitro in enostavno odčitavanje rezultatov. Zaradi majhne porabe energije in kompaktne izvedbe je naprava primerna za uporabo doma, v šoli ali pri demonstraciji osnov delovanja biometričnih senzorjev.
 
 ### Kosovnica uporabljenih materialov in komponent
-<img width="1067" height="343" alt="image" src="https://github.com/user-attachments/assets/29ed831a-dba8-4283-bad7-c353fac5d714" />
+<img width="923" height="331" alt="image" src="https://github.com/user-attachments/assets/e5527193-37b6-4911-a3fb-e68a60f05ffd" />
+
 
 
 ### Slika vezalne sheme
