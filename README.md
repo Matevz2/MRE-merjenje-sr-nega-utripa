@@ -12,7 +12,8 @@ Izračunane vrednosti se nato prikažejo na OLED zaslonu, ki uporabniku omogoča
 <img width="923" height="331" alt="image" src="https://github.com/user-attachments/assets/e5527193-37b6-4911-a3fb-e68a60f05ffd" />
 
 ### Slika vezalne sheme
-<img width="1024" height="728" alt="image" src="https://github.com/user-attachments/assets/0b981b47-c70c-4e08-b957-8feebe22884c" />
+<img width="1024" height="728" alt="image" src="https://github.com/user-attachments/assets/f2e4d34a-68f5-4059-9c2e-16507aa64b4c" />
+
 
 
 ### Slike načrtov za ohišje
