@@ -11,12 +11,14 @@ Izračunane vrednosti se nato prikažejo na OLED zaslonu, ki uporabniku omogoča
 ### Kosovnica uporabljenih materialov in komponent
 <img width="923" height="331" alt="image" src="https://github.com/user-attachments/assets/e5527193-37b6-4911-a3fb-e68a60f05ffd" />
 
-
-
 ### Slika vezalne sheme
 <img width="972" height="653" alt="image" src="https://github.com/user-attachments/assets/f073a34e-f927-4926-afd2-4814339079a2" />
 
-### Slike načrtov za ohišje 
+### Slike načrtov za ohišje
+<img width="594" height="420" alt="image" src="https://github.com/user-attachments/assets/caee09e5-847b-4eb2-be61-5bf308f26f49" />
+<img width="543" height="414" alt="image" src="https://github.com/user-attachments/assets/124dc9ef-9d28-4af7-afc0-7f90d43294da" />
+<img width="454" height="382" alt="image" src="https://github.com/user-attachments/assets/d332f417-79e7-404c-b715-21ee11f473fa" />
+<img width="493" height="376" alt="image" src="https://github.com/user-attachments/assets/8e7c7120-3718-4c4f-b1c9-808b7e3b0706" />
 
 ### Izračune za posamezne komponente elektronskega vezja
 Ker projekt temelji predvsem na digitalnih komponentah z že vgrajeno elektroniko, ni bilo potrebno izvajati zahtevnejših električnih izračunov. Komponente delujejo pri napetosti 3,3 V oziroma 5 V, ki jo zagotavlja Arduino Nano.
@@ -32,8 +34,6 @@ mapi po imenu koda
 ### A-test
 <img width="465" height="698" alt="image" src="https://github.com/user-attachments/assets/906b8436-d109-4a97-aff5-15842c7c7085" />
 <img width="504" height="712" alt="image" src="https://github.com/user-attachments/assets/c0f8a81b-4adc-40c1-9886-778225e666dc" />
-
-
 
 ### Komentar in ocena natančnosti
 Med razvojem projekta sva izvedla več primerjalnih meritev z referenčnim pulznim oksimetrom. Cilj je bil ugotoviti, kako natančno senzor MAX30102 meri srčni utrip in nasičenost krvi s kisikom.
