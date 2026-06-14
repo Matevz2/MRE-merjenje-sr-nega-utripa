@@ -15,7 +15,6 @@ Izračunane vrednosti se nato prikažejo na OLED zaslonu, ki uporabniku omogoča
 <img width="1024" height="728" alt="image" src="https://github.com/user-attachments/assets/f2e4d34a-68f5-4059-9c2e-16507aa64b4c" />
 
 
-
 ### Slike načrtov za ohišje
 <img width="594" height="420" alt="image" src="https://github.com/user-attachments/assets/caee09e5-847b-4eb2-be61-5bf308f26f49" />
 <img width="543" height="414" alt="image" src="https://github.com/user-attachments/assets/124dc9ef-9d28-4af7-afc0-7f90d43294da" />
@@ -32,6 +31,7 @@ Koda se nahaja v
 mapi po imenu koda 
 
 ### Videoposnetek delovanja naprave
+[▶️ Oglej si video] https://youtube.com/shorts/ft8lbFtna5Y?si=j3bLdU66Ac2fbNZu
 
 ### A-test
 <img width="465" height="698" alt="image" src="https://github.com/user-attachments/assets/906b8436-d109-4a97-aff5-15842c7c7085" />
